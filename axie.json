@@ -111,35 +111,70 @@ Each Axie has different traits which determine their role in battle."
       "id" : 1,
       "imageURL" : "http://youuffo.com/data/photo/tips",
       "state" : "free",
-      "title" : "Step2:",
+      "title" : "",
       "written" : "Choose the skin via the floating window. You can also try the skins from the store. We will remember your choices and you can see them after you return to the lobby."
     },
     {
       "id" : 2,
       "imageURL" : "http://youuffo.com/data/photo/tips",
       "state" : "free",
-      "title" : "Step3:",
+      "title" : "",
       "written" : "Enter the battle, then you can see the skins1010In addition."
     },
     {
       "id" : 3,
       "imageURL" : "http://youuffo.com/data/photo/tips",
       "state" : "free",
-      "title" : "Step4:",
+      "title" : ":",
       "written" : "More function: You can also change the crosshair when you enter the battlefield.1010The."
     },
     {
       "id" : 4,
       "imageURL" : "http://youuffo.com/data/photo/tips",
       "state" : "free",
-      "title" : "Step5:",
+      "title" : ":",
       "written" : "Make sure you've downloaded the resources in the game's download center, then download and open the Nicoo App. Click the button above to start Free Fire.1010Likewise, Nicoo also allows you to make changes to the scope of Free Fire ."
     },
     {
       "id" : 5,
       "imageURL" : "http://youuffo.com/data/photo/tips",
       "state" : "free",
-      "title" : "Step5:",
+      "title" : "",
+      "written" : "Make sure you've downloaded the resources in the game's download center, then download and open the Nicoo App. Click the button above to start Free Fire.1010Likewise, Nicoo also allows you to make changes to the scope of Free Fire ."
+},
+    {
+      "id" : 6,
+      "imageURL" : "http://youuffo.com/data/photo/tips",
+      "state" : "free",
+      "title" : "",
+      "written" : "Make sure you've downloaded the resources in the game's download center, then download and open the Nicoo App. Click the button above to start Free Fire.1010Likewise, Nicoo also allows you to make changes to the scope of Free Fire ."
+},
+    {
+      "id" : 7,
+      "imageURL" : "http://youuffo.com/data/photo/tips",
+      "state" : "free",
+      "title" : "",
+      "written" : "Make sure you've downloaded the resources in the game's download center, then download and open the Nicoo App. Click the button above to start Free Fire.1010Likewise, Nicoo also allows you to make changes to the scope of Free Fire ."
+},
+    {
+      "id" : 8,
+      "imageURL" : "http://youuffo.com/data/photo/tips",
+      "state" : "free",
+      "title" : "",
+      "written" : "Make sure you've downloaded the resources in the game's download center, then download and open the Nicoo App. Click the button above to start Free Fire.1010Likewise, Nicoo also allows you to make changes to the scope of Free Fire ."
+},
+    {
+      "id" : 9,
+      "imageURL" : "http://youuffo.com/data/photo/tips",
+      "state" : "free",
+      "title" : "",
+      "written" : "Make sure you've downloaded the resources in the game's download center, then download and open the Nicoo App. Click the button above to start Free Fire.1010Likewise, Nicoo also allows you to make changes to the scope of Free Fire ."
+},
+    {
+      "id" : 10,
+      "imageURL" : "http://youuffo.com/data/photo/tips",
+      "state" : "free",
+      "title" : "",
       "written" : "Make sure you've downloaded the resources in the game's download center, then download and open the Nicoo App. Click the button above to start Free Fire.1010Likewise, Nicoo also allows you to make changes to the scope of Free Fire ."
 
     }
