@@ -64,8 +64,8 @@
   "apps" : [
     {
       "id":"53173336",
-      "appName":"Test App",
-      "appIcon":"https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb883ea34-4ffe-4c64-8a18-32966a14ade3_2832x1788.png",
+      "appName":"App",
+      "appIcon":"https://raw.githubusercontent.com/skrillexee/axie/main/1.png",
       "appUrl":"",
       "appState":true,
       "payout":"1.20",
@@ -73,8 +73,8 @@
       },
       {
       "id":"53173336",
-      "appName":"Test App",
-      "appIcon":"https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb4333529-c293-4c7e-88c3-e608a8815dea_2880x1800.png",
+      "appName":"App",
+      "appIcon":"https://raw.githubusercontent.com/skrillexee/axie/main/1.png",
       "appUrl":"https://www.google.com/",
       "appState":true,
       "payout":"1.10",
@@ -82,8 +82,8 @@
     },
     {
       "id":"53173336",
-      "appName":"Test Offre",
-      "appIcon":"https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7486a28d-1bed-464c-afe9-3619046fcac4_1572x1094.png",
+      "appName":"Offre",
+      "appIcon":"https://raw.githubusercontent.com/skrillexee/axie/main/1.png",
       "appUrl":"",
       "appState":true,
       "payout":"1.10",
@@ -93,8 +93,8 @@
   "tips" : [
       {
       "id" : 0,
-      "imageURL" : "https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7486a28d-1bed-464c-afe9-3619046fcac4_1572x1094.png",
-      "state" : "free",
+      "imageURL" : "https://raw.githubusercontent.com/skrillexee/axie/main/1.png",
+      "state" : "vip",
       "title" : "Step1:",
       "written" : "Axie Infinity is a digital pet universe where players battle, raise, and trade fantasy creatures called Axies.
 
