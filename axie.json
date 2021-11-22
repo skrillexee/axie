@@ -22,10 +22,10 @@
       "mopub_rewarded_id" : ""
     },
     
-    "mode_ads_banner" : "mopub",
-    "mode_ads_interstitial" : "mopub",
-    "mode_ads_native" : "mopub",
-    "mode_ads_rewarded" : "mopub",
+    "mode_ads_banner" : "cpabuild",
+    "mode_ads_interstitial" : "cpabuild",
+    "mode_ads_native" : "cpabuild",
+    "mode_ads_rewarded" : "cpabuild",
     "one_signal_app_id" : "",
 
     "update" : {
@@ -83,8 +83,8 @@
     {
       "id":"53173336",
       "appName":"Test Offre",
-      "appIcon":"https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/test.png",
-      "appUrl":"https://www.google.com/",
+      "appIcon":"https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7486a28d-1bed-464c-afe9-3619046fcac4_1572x1094.png",
+      "appUrl":"",
       "appState":true,
       "payout":"1.10",
       "appCountry":"all"
@@ -93,7 +93,7 @@
   "tips" : [
       {
       "id" : 0,
-      "imageURL" : "http://youuffo.com/data/photo/tips",
+      "imageURL" : "https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7486a28d-1bed-464c-afe9-3619046fcac4_1572x1094.png",
       "state" : "free",
       "title" : "Step1:",
       "written" : "Axie Infinity is a digital pet universe where players battle, raise, and trade fantasy creatures called Axies.
