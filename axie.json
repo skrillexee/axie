@@ -26,7 +26,7 @@
     "mode_ads_interstitial" : "cpabuild",
     "mode_ads_native" : "cpabuild",
     "mode_ads_rewarded" : "cpabuild",
-    "one_signal_app_id" : "",
+    "one_signal_app_id" : "8521be34-07b8-49ea-a8d4-1876da796010",
 
     "update" : {
       "enable_update_closed" : true,
