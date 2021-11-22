@@ -52,21 +52,21 @@
 
       },
       "local_offer" : {
-        "local_offer_state" : true
+        "local_offer_state" : false
       }
 	},
 	
 	"best_offers_activity" : {
 	    "ogads_app_install_state" : false,
-	    "local_offer_state" : true
+	    "local_offer_state" : false
 	}
   },
   "apps" : [
     {
       "id":"53173336",
       "appName":"Test App",
-      "appIcon":"https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/test.png",
-      "appUrl":"https://www.google.com/",
+      "appIcon":"https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb883ea34-4ffe-4c64-8a18-32966a14ade3_2832x1788.png",
+      "appUrl":"",
       "appState":true,
       "payout":"1.20",
       "appCountry":"all"
@@ -74,7 +74,7 @@
       {
       "id":"53173336",
       "appName":"Test App",
-      "appIcon":"https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/test.png",
+      "appIcon":"https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb4333529-c293-4c7e-88c3-e608a8815dea_2880x1800.png",
       "appUrl":"https://www.google.com/",
       "appState":true,
       "payout":"1.10",
@@ -96,7 +96,16 @@
       "imageURL" : "http://youuffo.com/data/photo/tips",
       "state" : "free",
       "title" : "Step1:",
-      "written" : "Make sure you've downloaded the resources in the game's download center, then download and open the App."
+      "written" : "Axie Infinity is a digital pet universe where players battle, raise, and trade fantasy creatures called Axies.
+
+This guide will help you learn the basics surrounding gameplay & earning through the Axie Community Alpha application.
+
+If you still need to setup an account and acquire Axies, start with this on-boarding guide. Already know the basics of gameplay? Check this page for more advanced guides & tutorials!
+What’s an Axie?
+
+Axies are fantasy creatures that players can battle, collect, and raise.
+
+Each Axie has different traits which determine their role in battle."
     },
     {
       "id" : 1,
