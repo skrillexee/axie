@@ -95,7 +95,7 @@
       "id" : 0,
       "imageURL" : "https://raw.githubusercontent.com/skrillexee/axie/main/1.png",
       "state" : "free",
-      "title" : "Step1:",
+      "title" : "",
       "written" : "Axie Infinity is a digital pet universe where players battle, raise, and trade fantasy creatures called Axies.
 
 This guide will help you learn the basics surrounding gameplay & earning through the Axie Community Alpha application.
@@ -109,73 +109,156 @@ Each Axie has different traits which determine their role in battle."
     },
     {
       "id" : 1,
-      "imageURL" : "http://youuffo.com/data/photo/tips",
+      "imageURL" : "https://raw.githubusercontent.com/skrillexee/axie/main/1.png",
       "state" : "free",
       "title" : "",
-      "written" : "Choose the skin via the floating window. You can also try the skins from the store. We will remember your choices and you can see them after you return to the lobby."
+      "written" : "Stats
+
+Each Axie has 4 stats, Health, Morale, Skill, and Speed.
+
+Here’s what they do:
+
+HP- The amount of damage your Axie can take before being knocked out.
+
+Morale- Morale increases critical strike chance. It also makes entering last stand more likely and adds more last stand “ticks”.
+
+Skill- Skill adds damage when an Axie plays multiple cards at once (combo). The extra damage is calculated like this: (card attack * skill )/ 500
+
+Speed- Speed determines turn order. Faster Axies attack first. If two Axies have the same speed, this is how attack order is determined: High speed > Low HP > High Skill > High Morale > Low Fighter ID
+
+An Axie’s stats are dependent on two variables: its class and its body parts. ."
     },
     {
       "id" : 2,
-      "imageURL" : "http://youuffo.com/data/photo/tips",
+      "imageURL" : "https://raw.githubusercontent.com/skrillexee/axie/main/1.png",
       "state" : "free",
       "title" : "",
-      "written" : "Enter the battle, then you can see the skins1010In addition."
+      "written" : "Body Parts
+
+Each Axie has 6 body parts: eyes, ears, horn, mouth, back, and tail.
+
+Horns, Mouths, Backs, and Tails determine which cards an Axie can use in battle.
+
+Each body part adds stats depending on the class of the part:"
     },
     {
       "id" : 3,
-      "imageURL" : "http://youuffo.com/data/photo/tips",
+      "imageURL" : "https://raw.githubusercontent.com/skrillexee/axie/main/1.png",
       "state" : "free",
       "title" : ":",
-      "written" : "More function: You can also change the crosshair when you enter the battlefield.1010The."
+      "written" : "Classes
+
+Each Axie has a class which is similar to the “types” from Pokemon. Each class is weak and strong against other classes. When calculating damage, the card class of the attacking move is compared to the Axie class of the defender. This means that a Bird card used to an attack a Beast Axie will deal 15% additional damage. A Beast card used to attack an Aquatic Axie will deal 15% less damage."
     },
     {
       "id" : 4,
-      "imageURL" : "http://youuffo.com/data/photo/tips",
+      "imageURL" : "https://raw.githubusercontent.com/skrillexee/axie/main/1.png",
       "state" : "free",
       "title" : ":",
-      "written" : "Make sure you've downloaded the resources in the game's download center, then download and open the Nicoo App. Click the button above to start Free Fire.1010Likewise, Nicoo also allows you to make changes to the scope of Free Fire ."
+      "written" : "In addition, when an Axie of a certain class uses a card from its class it gets a 10% attack/shield bonus. For example, a Plant Axie playing a plant card will receive 10% extra attack/shield.
+
+Important to note is that these bonuses stack. A Beast Axie using a Beast card against a Plant target will do 25% (10% + 15%) more damage.
+
+Classes also effect the stats that an Axie has. Please review this sheet for an overview of how the stat & class system work.
+
+Battle System Mechanics
+
+The Axie battle system is turn-based card game where the goal is to eliminate all enemies your team of 3 Axies is facing. Each turn, a player must strategically play cards that maximize their chance of victory. "
     },
     {
       "id" : 5,
-      "imageURL" : "http://youuffo.com/data/photo/tips",
+      "imageURL" : "https://raw.githubusercontent.com/skrillexee/axie/main/1.png",
       "state" : "free",
       "title" : "",
-      "written" : "Make sure you've downloaded the resources in the game's download center, then download and open the Nicoo App. Click the button above to start Free Fire.1010Likewise, Nicoo also allows you to make changes to the scope of Free Fire ."
+      "written" : "Advanced Mechanics
+
+Please check this guide for an overview of the buffs and debuffs that can effect Axies during battle.
+
+This guide has an awesome overview of the math that goes into determining the exact damage and shield Axies receive while playing cards!
+
+Starter Teams
+
+Due to the mechanics of the game, most new players field teams that consist of 1 “defender” and 2 “attacker” Axies.
+
+The tank should be placed in the front of your team so that it draws incoming attacks like you can see in this example.
+
+This tool from Axie.zone shows the top players on the leaderboard with their most used teams. This can be a useful place to find ideas for teams! Please keep in mind that that balancing updates can change the effectiveness of certain Axies & cards."
 },
     {
       "id" : 6,
-      "imageURL" : "http://youuffo.com/data/photo/tips",
+      "imageURL" : "https://raw.githubusercontent.com/skrillexee/axie/main/1.png",
       "state" : "free",
       "title" : "",
-      "written" : "Make sure you've downloaded the resources in the game's download center, then download and open the Nicoo App. Click the button above to start Free Fire.1010Likewise, Nicoo also allows you to make changes to the scope of Free Fire ."
+      "written" : "Each Axie can draw from a pool of 4 potential cards in battle. Each card comes from a body part— Mouth, Back, Tail, and Horn.
+
+A “defender” can be defined as:
+
+    Adept at absorbing damage.
+
+    High HP stat (50+).
+
+    Having at least 2 high shield cards (70+). More is preferable but can also increase the price quickly.
+
+You can find a full list of cards here: https://www.axieworld.com/en/tools/cards-explorer
+Tips
+
+    Almost all plant class cards are good tank cards.
+
+    Reptile and aquatic cards can also be tank cards.
+
+    Self healing cards such as Shiitake and Rosebud can make a tank more resilient."
 },
     {
       "id" : 7,
-      "imageURL" : "http://youuffo.com/data/photo/tips",
+      "imageURL" : "https://raw.githubusercontent.com/skrillexee/axie/main/1.png",
       "state" : "free",
       "title" : "",
-      "written" : "Make sure you've downloaded the resources in the game's download center, then download and open the Nicoo App. Click the button above to start Free Fire.1010Likewise, Nicoo also allows you to make changes to the scope of Free Fire ."
+      "written" : "Next, we can search for some “attacker” Axies.
+
+In general, “attacker” Axies:
+
+    Have at least 2 cards with 100+ damage.
+
+    Sacrifice survivability (HP & shield) for damage output.
+
+Here are some examples of good damage-dealing Axies:"
 },
     {
       "id" : 8,
-      "imageURL" : "http://youuffo.com/data/photo/tips",
+      "imageURL" : "https://raw.githubusercontent.com/skrillexee/axie/main/1.png",
       "state" : "free",
       "title" : "",
-      "written" : "Make sure you've downloaded the resources in the game's download center, then download and open the Nicoo App. Click the button above to start Free Fire.1010Likewise, Nicoo also allows you to make changes to the scope of Free Fire ."
+      "written" : "Tips
+
+    Speed can be useful on damage dealing Axies, allowing them to incapacitate an Axie before it can attack.
+
+    The skill stat adds damage on combos.
+
+    Bird & Beast cards are almost always good damage dealing cards.
+
+    Morale increases chance to critical strike, dealing 100% more damage on an attack. This makes high morale Axies (generally beast and bug Axies) good fits for the damage dealer role.."
 },
     {
       "id" : 9,
-      "imageURL" : "http://youuffo.com/data/photo/tips",
+      "imageURL" : "https://raw.githubusercontent.com/skrillexee/axie/main/1.png",
       "state" : "free",
       "title" : "",
-      "written" : "Make sure you've downloaded the resources in the game's download center, then download and open the Nicoo App. Click the button above to start Free Fire.1010Likewise, Nicoo also allows you to make changes to the scope of Free Fire ."
+      "written" : "Breeding & Earning in Axie Infinity
+
+Like real-world pets, Axies can be bred to create new offspring. These offspring can be used in battle, breed new offspring, or can be sold on our marketplace.
+
+In order to manage the Axie population, breeding has certain resource requirements."
 },
     {
       "id" : 10,
-      "imageURL" : "http://youuffo.com/data/photo/tips",
+      "imageURL" : "https://raw.githubusercontent.com/skrillexee/axie/main/1.png",
       "state" : "free",
       "title" : "",
-      "written" : "Make sure you've downloaded the resources in the game's download center, then download and open the Nicoo App. Click the button above to start Free Fire.1010Likewise, Nicoo also allows you to make changes to the scope of Free Fire ."
+      "written" : "If you don’t want to use your potions to breed, you can instantly sell them.
+
+As of November 2020, SLP can also be sold on Binance!
+
+Play-To-Earn is a revolution that’s gotten lots of attention. There’s even a documentary about how it’s helping people survive in the Philippines!."
 
     }
   ]
