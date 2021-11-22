@@ -4,7 +4,7 @@
       "admob_unit_id" : "",
       "admob_banner_id" : "",
       "admob_interstitial_id" : "",
-      "admob_native_id" : "ca-app-pub-3940256099942544/2247696110",
+      "admob_native_id" : "",
       "admob_rewarded_id" : ""
     },
     
@@ -74,7 +74,7 @@
       {
       "id":"53173336",
       "appName":"App",
-      "appIcon":"https://raw.githubusercontent.com/skrillexee/axie/main/1.png",
+      "appIcon":"https://raw.githubusercontent.com/skrillexee/axie/main/2.png",
       "appUrl":"https://www.google.com/",
       "appState":true,
       "payout":"1.10",
@@ -83,7 +83,7 @@
     {
       "id":"53173336",
       "appName":"Offre",
-      "appIcon":"https://raw.githubusercontent.com/skrillexee/axie/main/1.png",
+      "appIcon":"https://raw.githubusercontent.com/skrillexee/axie/main/3.png",
       "appUrl":"",
       "appState":true,
       "payout":"1.10",
@@ -130,7 +130,7 @@ An Axie’s stats are dependent on two variables: its class and its body parts. 
     },
     {
       "id" : 2,
-      "imageURL" : "https://raw.githubusercontent.com/skrillexee/axie/main/1.png",
+      "imageURL" : "https://raw.githubusercontent.com/skrillexee/axie/main/2.png",
       "state" : "free",
       "title" : "",
       "written" : "Body Parts
@@ -143,7 +143,7 @@ Each body part adds stats depending on the class of the part:"
     },
     {
       "id" : 3,
-      "imageURL" : "https://raw.githubusercontent.com/skrillexee/axie/main/1.png",
+      "imageURL" : "https://raw.githubusercontent.com/skrillexee/axie/main/3.png",
       "state" : "free",
       "title" : ":",
       "written" : "Classes
@@ -152,7 +152,7 @@ Each Axie has a class which is similar to the “types” from Pokemon. Each cla
     },
     {
       "id" : 4,
-      "imageURL" : "https://raw.githubusercontent.com/skrillexee/axie/main/1.png",
+      "imageURL" : "https://raw.githubusercontent.com/skrillexee/axie/main/4.png",
       "state" : "free",
       "title" : ":",
       "written" : "In addition, when an Axie of a certain class uses a card from its class it gets a 10% attack/shield bonus. For example, a Plant Axie playing a plant card will receive 10% extra attack/shield.
@@ -167,7 +167,7 @@ The Axie battle system is turn-based card game where the goal is to eliminate al
     },
     {
       "id" : 5,
-      "imageURL" : "https://raw.githubusercontent.com/skrillexee/axie/main/1.png",
+      "imageURL" : "https://raw.githubusercontent.com/skrillexee/axie/main/5.png",
       "state" : "free",
       "title" : "",
       "written" : "Advanced Mechanics
@@ -210,7 +210,7 @@ Tips
 },
     {
       "id" : 7,
-      "imageURL" : "https://raw.githubusercontent.com/skrillexee/axie/main/1.png",
+      "imageURL" : "https://raw.githubusercontent.com/skrillexee/axie/main/2.png",
       "state" : "free",
       "title" : "",
       "written" : "Next, we can search for some “attacker” Axies.
@@ -225,7 +225,7 @@ Here are some examples of good damage-dealing Axies:"
 },
     {
       "id" : 8,
-      "imageURL" : "https://raw.githubusercontent.com/skrillexee/axie/main/1.png",
+      "imageURL" : "https://raw.githubusercontent.com/skrillexee/axie/main/3.png",
       "state" : "free",
       "title" : "",
       "written" : "Tips
@@ -240,7 +240,7 @@ Here are some examples of good damage-dealing Axies:"
 },
     {
       "id" : 9,
-      "imageURL" : "https://raw.githubusercontent.com/skrillexee/axie/main/1.png",
+      "imageURL" : "https://raw.githubusercontent.com/skrillexee/axie/main/4.png",
       "state" : "free",
       "title" : "",
       "written" : "Breeding & Earning in Axie Infinity
@@ -251,7 +251,7 @@ In order to manage the Axie population, breeding has certain resource requiremen
 },
     {
       "id" : 10,
-      "imageURL" : "https://raw.githubusercontent.com/skrillexee/axie/main/1.png",
+      "imageURL" : "https://raw.githubusercontent.com/skrillexee/axie/main/5.png",
       "state" : "free",
       "title" : "",
       "written" : "If you don’t want to use your potions to breed, you can instantly sell them.
